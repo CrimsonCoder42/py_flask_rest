@@ -26,3 +26,5 @@ print(a)
 print(b)
 
 b = 17
+
+var1 = "hello"
